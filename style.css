@@ -4,11 +4,11 @@
 }
 
 body {
-  background-color: #8CB9BD;
+  background-color: #8cb9bd;
   text-align: center;
 }
-h1{
-  color: #FEFBF6;
+h1 {
+  color: #fefbf6;
 }
 .container {
   height: 70vh;
@@ -42,7 +42,7 @@ h1{
 #reset-btn {
   padding: 1rem;
   font-size: 1.25rem;
-  background-color: #B67352;
+  background-color: #b67352;
   color: #fff;
   border-radius: 1rem;
   border: none;
@@ -51,7 +51,7 @@ h1{
 #new-btn {
   padding: 1rem;
   font-size: 1.25rem;
-  background-color: #B67352;
+  background-color: #b67352;
   color: #fff;
   border-radius: 1rem;
   border: none;
